@@ -7,7 +7,7 @@ In this project, `Splinter` will be used to automate a web browser, `BeautifulSo
 <br/>
 
 <p align=center>
-<img src="Images/mars.jpg" width=600>
+<img src="Images/mars.jpg" width=900 height=250>
 
 <br>
 
