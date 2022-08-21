@@ -25,7 +25,7 @@ def scrape():
    return redirect('/', code=302)
 
 # update the database:
-.update_one(query_parameter, {"$set": data}, options)
+update_one(query_parameter, {"$set": data}, options)
 
 # Tell the flask app to run:
 if __name__ == "__main__":
