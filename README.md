@@ -18,7 +18,9 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 <br>
 <br>
 
-<img src="Images/running_on.png">
+### Flask 
+
+<img src="Images/running_on.png" width=900>
 
 <br>
 
