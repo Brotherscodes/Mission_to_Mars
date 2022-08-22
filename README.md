@@ -24,7 +24,7 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
 <br>
 
-### The Hemisphere that were scraped: (move mouse over image to see name of the hemisphere)
+### The Hemispheres that were scraped: (place your mouse over each image to display the name of the hemisphere)
 
 <br>
 <p align=center>
@@ -38,7 +38,7 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
 ### Resources:
 
-- Splinter, BeautifulSoup, MongoDB, Mongosh, Python, VS Code, Flask, PyMongo, div-tools, google chrome
+- Splinter, BeautifulSoup, MongoDB, Mongosh, Python, VS Code, Flask, PyMongo, div-tools, google chrome, MongoDB Compass
 - https://redplanetscience.com
 - https://spaceimages-mars.com
 - https://galaxyfacts-mars.com
