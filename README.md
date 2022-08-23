@@ -83,7 +83,7 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
 # Final Result:
 
-The Final Product is a fully operative, organized web-app displaying all information in a central location: a website. The Flask application was ran and information was made available on a server. Each time the `"Scrape New Data"` button was clicked, our website and database information was updated with newly scraped information to include images, the latest article title, and a short news description from the NASA's site.
+The Final Product is a fully operative, organized web-app displaying all information in a central location: a website. The Flask application was ran and information was made available on a server. Each time the `"Scrape New Data"` button was clicked, our website and database information was updated with newly scraped information to include images, the latest article title, and a short news description from NASA's site.
 
 Server: `127.0.0.1:5000`
 
