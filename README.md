@@ -22,7 +22,6 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
  A Python script was written to scrape text, images, and other data from multiple websites with information on the Mission to Mars. An HTML template was written for the Flask web application to display the gathered information on a single webpage. The information that was scraped was stored in MongoDB(a non-relational database). 
 
- <br>
 
 ## Resources:
 
