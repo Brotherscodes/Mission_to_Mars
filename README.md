@@ -25,7 +25,6 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
  <br>
 
 ## Resources:
-#
 
 - Web pages scraped:
     - https://redplanetscience.com
@@ -37,16 +36,16 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
 - Software:
     - MongoDB, Mongosh, MongoDB-Compass, PyMongo
-    - Splinter, BeautifulSoup, HTML5
+    - Splinter, BeautifulSoup, HTML5, Bootstrap
     - Google Chrome, Div Tools
     - Jupyter Notebook/Lab
-    Python
+    - Python
     - Flask
     - VS Code
 
 <br>
 
-- Code to reference:
+- Code for reference:
     - HTML index template: `index.html` (located in the `templates` folder)
     - Flask App: `app.py`
     - Scraping: `scraping.py`
@@ -60,7 +59,6 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
 
  ### Flask in use: 
 
-<br>
 <img src="Images/running_on.png" width=900>
 
 <br>
