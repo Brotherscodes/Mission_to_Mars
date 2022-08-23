@@ -49,9 +49,6 @@ In this project, `Splinter` was used to automate a web browser, `BeautifulSoup` 
     - Flask App: `app.py`
     - Scraping: `scraping.py`
 
-<br>
-<br>
-
 # Data collected:
 
 <br>
